@@ -8,15 +8,15 @@
 
 Помогает собрать на одной странице контекст, бизнес-задачу, аудиторию, ситуацию выбора, конкурентов, ограничения и критерии проверки.
 
-- [Открыть версию Markdown](templates/brand-project-map.md)
-- [Скачать редактируемый DOCX](templates/brand-project-map.docx)
+- [Открыть версию Markdown](brand-project-map.md)
+- [Скачать редактируемый DOCX](brand-project-map.docx)
 
 ## 2. Протокол правок
 
 Отделяет фактическую ошибку от изменения задачи, вкусового мнения и симптома более глубокой проблемы. Фиксирует решение, последствия, ответственного и статус.
 
-- [Открыть версию Markdown](templates/revision-protocol.md)
-- [Скачать редактируемый DOCX](templates/revision-protocol.docx)
+- [Открыть версию Markdown](revision-protocol.md)
+- [Скачать редактируемый DOCX](revision-protocol.docx)
 
 ## Как пользоваться
 
